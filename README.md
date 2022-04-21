@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasch233
-- 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning algebra, numerical mathematics, complex analysis and theoretical computer science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Mathematics and Computer Science, specially interested in PDEs, number theory, complex analysis, theoretical computer science and java programming.
+- 🌱 I’m currently learning analytic number theory and harmonic analysis. Learning tocode better in java as well.
+- 💞️ I’m looking to collaborate on nothing really, just studying at the moment...
 - 📫 How to reach me: daniel.schmitz@hhu.de
 
 <!---
